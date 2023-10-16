@@ -56,7 +56,7 @@ Start the file name by identifying the vendor authoring it.
 
 ##### 09
 <div>
-<img src="./AutdeskCivil3D/AutodeskCivil3D_Import_ACCA.jpg" width="500"/>
+<img src="./AutodeskCivil3D/AutodeskCivil3D_Import_ACCA.jpg" width="500"/>
 </div>
 
 ### [Trimble_terrain-model.ifc](./TrimbleQuadri/Trimble_terrain-model.ifc)
@@ -105,7 +105,7 @@ Start the file name by identifying the vendor authoring it.
 
 ##### 18
 <div>
-<img src="./AutdeskCivil3D/AutodeskCivil3D_Import_Trimble.jpg" width="500"/>
+<img src="./AutodeskCivil3D/AutodeskCivil3D_Import_Trimble.jpg" width="500"/>
 </div>
 
 
@@ -151,7 +151,7 @@ Start the file name by identifying the vendor authoring it.
 
 ##### 27
 <div>
-<img src="./AutdeskCivil3D/AutodeskCivil3D_Import_Sogelink.jpg" width="500"/>
+<img src="./AutodeskCivil3D/AutodeskCivil3D_Import_Sogelink.jpg" width="500"/>
 </div>
 
 
@@ -171,7 +171,7 @@ Start the file name by identifying the vendor authoring it.
 
 ##### 28
 <div>
-<img src="./AutodeskCivil3D/AutodeskCivil3D_terrain.jpg.jpg" width="500"/>
+<img src="./AutodeskCivil3D/AutodeskCivil3D_terrain.jpg" width="500"/>
 </div>
 
 ##### 28
